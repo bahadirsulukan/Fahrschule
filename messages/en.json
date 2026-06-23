@@ -1,0 +1,194 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "cta": "Call Now"
+  },
+  "hero": {
+    "headline": "Your Licence. Easy. Fast. Personal.",
+    "sub": "Fahrschule Kendirci in Darmstadt — personal guidance, fair prices and 4.9 stars on Google.",
+    "cta_call": "Call Now",
+    "cta_contact": "Get in Touch",
+    "trust": "4.9 ★ · 154 Reviews on Google"
+  },
+  "trust": {
+    "rating": "4.9 ★ Rating",
+    "rating_sub": "154 Reviews on Google",
+    "location": "Darmstadt",
+    "location_sub": "Kiesstraße 35, 64283",
+    "multilingual": "Multilingual",
+    "multilingual_sub": "Support in German, English & Turkish",
+    "fast": "Fast & Straightforward",
+    "fast_sub": "Straight to your licence"
+  },
+  "services": {
+    "title": "Licence Classes & Services",
+    "sub": "We guide you safely and efficiently to your driving licence.",
+    "classB": {
+      "name": "Class B",
+      "desc": "The classic car licence — the most popular route to mobility."
+    },
+    "classB197": {
+      "name": "Class B197",
+      "desc": "Licence with automatic and manual — maximum flexibility."
+    },
+    "classA": {
+      "name": "Class A / A2 / AM",
+      "desc": "Motorcycle and moped licence for those who love to ride free."
+    },
+    "refresher": {
+      "name": "Refresher Lessons",
+      "desc": "Already have a licence? We help you brush up on practical skills."
+    },
+    "theory": {
+      "name": "Theory Lessons",
+      "desc": "Clear, practical theory instruction — with Turkish support available."
+    },
+    "intensive": {
+      "name": "Intensive Course",
+      "desc": "Get your licence quickly — ideal for working professionals and students."
+    },
+    "more": "View all services",
+    "prices_note": "* Please call for pricing — individual offers available."
+  },
+  "usps": {
+    "title": "Why Fahrschule Kendirci?",
+    "sub": "What our students appreciate about us.",
+    "rating": {
+      "title": "Top Rating",
+      "desc": "4.9 stars from 154 genuine Google reviews — that speaks for itself."
+    },
+    "fast": {
+      "title": "Fast Results",
+      "desc": "Efficient training without detours — we get you through your test safely and quickly."
+    },
+    "personal": {
+      "title": "Personal Support",
+      "desc": "Individual, solution-oriented and always open to your questions."
+    },
+    "price": {
+      "title": "Fair Prices",
+      "desc": "Affordable rates with no hidden costs — transparent from the start."
+    },
+    "multilingual": {
+      "title": "Multilingual",
+      "desc": "Even with limited German skills you'll receive intensive support — including in Turkish."
+    },
+    "local": {
+      "title": "Local in Darmstadt",
+      "desc": "We know the test routes and local specifics — your advantage in the exam."
+    }
+  },
+  "gallery": {
+    "title": "A Look Inside Our School",
+    "sub": "Modern vehicles, personal atmosphere."
+  },
+  "testimonials": {
+    "title": "What Our Students Say",
+    "sub": "Real reviews from real students.",
+    "source": "Source: Google",
+    "cta": "See all reviews on Google",
+    "reviews": [
+      {
+        "text": "I got my German driving licence here without any problems and in a short time. Our instructor is solution-oriented and takes care of our needs in the best way. Clear recommendation — and despite my very limited German I was helped enormously.",
+        "author": "Erdal A.",
+        "rating": 5
+      },
+      {
+        "text": "A very good driving school. I was very satisfied and thanks to them I passed the test. Thank you for everything!",
+        "author": "Damla C.",
+        "rating": 5
+      },
+      {
+        "text": "The best and most affordable driving school in Darmstadt. Even though my German was not good, I was helped in Turkish during the exam — so I passed. Clear recommendation.",
+        "author": "Burak Y.",
+        "rating": 5
+      }
+    ]
+  },
+  "location": {
+    "title": "Find Us",
+    "address": "Kiesstraße 35, 64283 Darmstadt",
+    "phone": "0170 238 2827",
+    "hours_title": "Opening Hours",
+    "hours_note": "From 18:00 — full hours on request",
+    "directions": "Get Directions",
+    "call": "Call"
+  },
+  "cta_section": {
+    "title": "Ready for your licence?",
+    "sub": "Call us now or send a message — we'll get back to you quickly.",
+    "cta_call": "0170 238 2827",
+    "cta_contact": "Contact Form"
+  },
+  "footer": {
+    "tagline": "Personal. Fast. Fair.",
+    "nav_title": "Navigation",
+    "legal_title": "Legal",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy",
+    "copyright": "© 2025 Fahrschule Kendirci. All rights reserved."
+  },
+  "about": {
+    "title": "About Us",
+    "hero_sub": "Personal guidance for years in Darmstadt.",
+    "story_title": "Our Story",
+    "story": "Fahrschule Kendirci stands for personal, solution-oriented driving instruction in Darmstadt. With individual support, fair prices and a genuine passion for driving, we guide our students safely to their licence — regardless of prior experience or language skills.",
+    "team_title": "Your Instructor",
+    "team_name": "Mehmet Kendirci",
+    "team_role": "Owner & Driving Instructor",
+    "team_desc": "With years of experience and true dedication, Mehmet Kendirci personally accompanies his students through their training. His strength: finding a solution for everyone.",
+    "gallery_title": "Our Vehicles & School",
+    "values_title": "Our Values"
+  },
+  "contact": {
+    "title": "Contact",
+    "hero_sub": "We're here for you — by phone, form or just drop by.",
+    "form_title": "Send a Message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "gdpr": "I agree to the processing of my data in accordance with the privacy policy.",
+    "submit": "Send Message",
+    "success": "Thank you! We'll be in touch soon.",
+    "info_title": "Contact Info",
+    "whatsapp": "WhatsApp"
+  },
+  "leistungen": {
+    "title": "Services & Prices",
+    "hero_sub": "All licence classes we offer — transparent and fair.",
+    "classes_title": "Licence Classes",
+    "prices_title": "Pricing Overview",
+    "prices_note": "Prices on request — individual offers available. Just give us a call.",
+    "cta_title": "Interested? Call us.",
+    "cta_sub": "We'll advise you free of charge on all licence classes."
+  },
+  "faq": {
+    "title": "FAQ",
+    "hero_sub": "Answers to the most common questions about your driving licence.",
+    "questions": [
+      {
+        "q": "How long does licence training take?",
+        "a": "It depends on your prior experience and available time. Typically a few weeks to months. We adapt the pace individually."
+      },
+      {
+        "q": "What does the licence cost?",
+        "a": "Costs vary by licence class and required lessons. Call us for a personal quote — we're fair and transparent."
+      },
+      {
+        "q": "Is training available in Turkish?",
+        "a": "Yes! We support our students in Turkish as well — for theory, driving lessons and exam preparation."
+      },
+      {
+        "q": "What documents do I need to register?",
+        "a": "ID or passport, a passport photo, vision test certificate and first-aid course certificate. We'll help with the details."
+      },
+      {
+        "q": "Can I book lessons flexibly?",
+        "a": "Yes, we work around your schedule. Just contact us."
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "cta": "Jetzt anrufen"
+  },
+  "hero": {
+    "headline": "Dein Führerschein. Einfach. Schnell. Persönlich.",
+    "sub": "Fahrschule Kendirci in Darmstadt — persönliche Betreuung, faire Preise und 4,9 Sterne auf Google.",
+    "cta_call": "Jetzt anrufen",
+    "cta_contact": "Kontakt aufnehmen",
+    "trust": "4,9 ★ · 154 Bewertungen auf Google"
+  },
+  "trust": {
+    "rating": "4,9 ★ Bewertung",
+    "rating_sub": "154 Bewertungen auf Google",
+    "location": "Darmstadt",
+    "location_sub": "Kiesstraße 35, 64283",
+    "multilingual": "Mehrsprachig",
+    "multilingual_sub": "Betreuung auf Deutsch, Englisch & Türkisch",
+    "fast": "Schnell & Unkompliziert",
+    "fast_sub": "Direkt zum Führerschein"
+  },
+  "services": {
+    "title": "Führerscheinklassen & Leistungen",
+    "sub": "Wir begleiten dich sicher und schnell zu deinem Führerschein.",
+    "classB": {
+      "name": "Klasse B",
+      "desc": "Der klassische PKW-Führerschein — der meistgewählte Weg zur Mobilität."
+    },
+    "classB197": {
+      "name": "Klasse B197",
+      "desc": "Führerschein mit Automatik und manuellem Fahren — maximale Flexibilität."
+    },
+    "classA": {
+      "name": "Klasse A / A2 / AM",
+      "desc": "Motorrad- und Mopedführerschein für alle, die gerne frei fahren."
+    },
+    "refresher": {
+      "name": "Auffrischungsstunden",
+      "desc": "Du hast bereits einen Führerschein? Wir helfen dir, die Praxis aufzufrischen."
+    },
+    "theory": {
+      "name": "Theorieunterricht",
+      "desc": "Verständlicher, praxisnaher Theorieunterricht — auch mit türkischer Unterstützung."
+    },
+    "intensive": {
+      "name": "Intensivkurs",
+      "desc": "Führerschein in kurzer Zeit — ideal für Berufstätige und Studierende."
+    },
+    "more": "Alle Leistungen ansehen",
+    "prices_note": "* Preise bitte telefonisch erfragen — individuelle Angebote möglich."
+  },
+  "usps": {
+    "title": "Warum Fahrschule Kendirci?",
+    "sub": "Was unsere Schülerinnen und Schüler an uns schätzen.",
+    "rating": {
+      "title": "Top-Bewertung",
+      "desc": "4,9 Sterne aus 154 echten Google-Bewertungen — das spricht für sich."
+    },
+    "fast": {
+      "title": "Schnell zum Ziel",
+      "desc": "Effiziente Ausbildung ohne Umwege — wir bringen dich sicher und schnell durch die Prüfung."
+    },
+    "personal": {
+      "title": "Persönliche Betreuung",
+      "desc": "Individuell, lösungsorientiert und immer offen für deine Fragen."
+    },
+    "price": {
+      "title": "Faire Preise",
+      "desc": "Günstige Konditionen ohne versteckte Kosten — transparent von Anfang an."
+    },
+    "multilingual": {
+      "title": "Mehrsprachig",
+      "desc": "Auch bei geringen Deutschkenntnissen wirst du intensiv unterstützt — auf Wunsch auf Türkisch."
+    },
+    "local": {
+      "title": "Lokal in Darmstadt",
+      "desc": "Wir kennen die Prüfungsrouten und die lokalen Besonderheiten — dein Vorteil bei der Prüfung."
+    }
+  },
+  "gallery": {
+    "title": "Einblicke in unsere Fahrschule",
+    "sub": "Moderne Ausbildungsfahrzeuge, persönliche Atmosphäre."
+  },
+  "testimonials": {
+    "title": "Was unsere Schüler sagen",
+    "sub": "Echte Bewertungen von echten Fahrschülern.",
+    "source": "Quelle: Google",
+    "cta": "Alle Bewertungen auf Google ansehen",
+    "reviews": [
+      {
+        "text": "Ich habe meinen deutschen Führerschein hier problemlos und in kurzer Zeit gemacht. Unser Fahrlehrer ist lösungsorientiert und kümmert sich auf die für uns beste Weise um Anliegen und Wünsche. Klare Empfehlung — und trotz meiner sehr begrenzten Deutschkenntnisse wurde mir sehr geholfen.",
+        "author": "Erdal A.",
+        "rating": 5
+      },
+      {
+        "text": "Eine sehr gute Fahrschule. Ich war sehr zufrieden und habe dank euch die Prüfung bestanden. Danke für alles!",
+        "author": "Damla C.",
+        "rating": 5
+      },
+      {
+        "text": "Beste und preiswerteste Fahrschule in Darmstadt. Obwohl mein Deutsch nicht gut war, wurde mir bei der Prüfung auf Türkisch sehr geholfen — so habe ich bestanden. Klare Empfehlung.",
+        "author": "Burak Y.",
+        "rating": 5
+      }
+    ]
+  },
+  "location": {
+    "title": "So findest du uns",
+    "address": "Kiesstraße 35, 64283 Darmstadt",
+    "phone": "0170 238 2827",
+    "hours_title": "Öffnungszeiten",
+    "hours_note": "Ab 18:00 Uhr — vollständige Zeiten auf Anfrage",
+    "directions": "Route planen",
+    "call": "Anrufen"
+  },
+  "cta_section": {
+    "title": "Bereit für deinen Führerschein?",
+    "sub": "Ruf uns jetzt an oder schreib uns — wir melden uns schnell zurück.",
+    "cta_call": "0170 238 2827",
+    "cta_contact": "Kontaktformular"
+  },
+  "footer": {
+    "tagline": "Persönlich. Schnell. Fair.",
+    "nav_title": "Navigation",
+    "legal_title": "Rechtliches",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "copyright": "© 2025 Fahrschule Kendirci. Alle Rechte vorbehalten."
+  },
+  "about": {
+    "title": "Über uns",
+    "hero_sub": "Persönliche Betreuung seit Jahren in Darmstadt.",
+    "story_title": "Unsere Geschichte",
+    "story": "Fahrschule Kendirci steht für persönliche, lösungsorientierte Fahrausbildung in Darmstadt. Mit individueller Betreuung, fairen Preisen und echter Leidenschaft fürs Fahren begleiten wir unsere Schülerinnen und Schüler sicher zum Führerschein — unabhängig von Vorkenntnissen oder Sprachkenntnissen.",
+    "team_title": "Dein Fahrlehrer",
+    "team_name": "Mehmet Kendirci",
+    "team_role": "Inhaber & Fahrlehrer",
+    "team_desc": "Mit jahrelanger Erfahrung und echtem Engagement begleitet Mehmet Kendirci seine Schüler persönlich durch die Ausbildung. Seine Stärke: er findet für jeden eine Lösung.",
+    "gallery_title": "Unsere Fahrzeuge & Schule",
+    "values_title": "Unsere Werte"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "hero_sub": "Wir sind für dich da — per Telefon, Formular oder einfach vorbeikommen.",
+    "form_title": "Schreib uns",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "gdpr": "Ich stimme der Verarbeitung meiner Daten gemäß der Datenschutzerklärung zu.",
+    "submit": "Nachricht senden",
+    "success": "Vielen Dank! Wir melden uns bald.",
+    "info_title": "Kontaktinfos",
+    "whatsapp": "WhatsApp"
+  },
+  "leistungen": {
+    "title": "Leistungen & Preise",
+    "hero_sub": "Alle Führerscheinklassen, die wir anbieten — transparent und fair.",
+    "classes_title": "Führerscheinklassen",
+    "prices_title": "Preisübersicht",
+    "prices_note": "Preise auf Anfrage — individuelle Angebote möglich. Ruf uns einfach an.",
+    "cta_title": "Interesse? Ruf uns an.",
+    "cta_sub": "Wir beraten dich kostenlos und unverbindlich zu allen Führerscheinklassen."
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "hero_sub": "Antworten auf die wichtigsten Fragen rund um deinen Führerschein.",
+    "questions": [
+      {
+        "q": "Wie lange dauert die Führerscheinausbildung?",
+        "a": "Das hängt von deinen Vorkenntnissen und der verfügbaren Zeit ab. In der Regel dauert es einige Wochen bis Monate. Wir passen das Tempo individuell an."
+      },
+      {
+        "q": "Was kostet der Führerschein?",
+        "a": "Die Kosten variieren je nach Führerscheinklasse und benötigten Fahrstunden. Ruf uns für ein persönliches Angebot an — wir sind fair und transparent."
+      },
+      {
+        "q": "Wird die Ausbildung auch auf Türkisch angeboten?",
+        "a": "Ja! Wir unterstützen unsere Schüler auch auf Türkisch — bei der Theorie, den Fahrstunden und der Prüfungsvorbereitung."
+      },
+      {
+        "q": "Welche Unterlagen brauche ich für die Anmeldung?",
+        "a": "Personalausweis oder Reisepass, ein Passfoto, Sehtest-Bescheinigung und ggf. Erste-Hilfe-Kurs-Nachweis. Wir helfen dir bei den Details."
+      },
+      {
+        "q": "Kann ich Fahrstunden flexibel vereinbaren?",
+        "a": "Ja, wir richten uns nach deinem Zeitplan. Sprich uns einfach an."
+      }
+    ]
+  }
+}
